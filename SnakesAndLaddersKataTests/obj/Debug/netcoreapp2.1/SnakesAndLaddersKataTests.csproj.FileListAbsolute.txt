@@ -1,0 +1,17 @@
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\bin\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.deps.json
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\bin\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.runtimeconfig.json
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\bin\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.runtimeconfig.dev.json
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\bin\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.dll
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\bin\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.pdb
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\bin\Debug\netcoreapp2.1\SnakesAndLaddersKata.dll
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\bin\Debug\netcoreapp2.1\SnakesAndLaddersKata.pdb
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\obj\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.csprojAssemblyReference.cache
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\obj\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.csproj.CoreCompileInputs.cache
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\obj\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.AssemblyInfoInputs.cache
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\obj\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.AssemblyInfo.cs
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\obj\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.csproj.CopyComplete
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\obj\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.dll
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKataTests\obj\Debug\netcoreapp2.1\SnakesAndLaddersKataTests.pdb

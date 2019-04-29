@@ -1,0 +1,11 @@
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\bin\Debug\netcoreapp2.1\SnakesAndLaddersKata.deps.json
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\bin\Debug\netcoreapp2.1\SnakesAndLaddersKata.runtimeconfig.json
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\bin\Debug\netcoreapp2.1\SnakesAndLaddersKata.runtimeconfig.dev.json
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\bin\Debug\netcoreapp2.1\SnakesAndLaddersKata.dll
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\bin\Debug\netcoreapp2.1\SnakesAndLaddersKata.pdb
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\obj\Debug\netcoreapp2.1\SnakesAndLaddersKata.csprojAssemblyReference.cache
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\obj\Debug\netcoreapp2.1\SnakesAndLaddersKata.csproj.CoreCompileInputs.cache
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\obj\Debug\netcoreapp2.1\SnakesAndLaddersKata.AssemblyInfoInputs.cache
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\obj\Debug\netcoreapp2.1\SnakesAndLaddersKata.AssemblyInfo.cs
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\obj\Debug\netcoreapp2.1\SnakesAndLaddersKata.dll
+C:\Users\elbouzroutia\source\repos\SnakesAndLaddersKata\SnakesAndLaddersKata\obj\Debug\netcoreapp2.1\SnakesAndLaddersKata.pdb
